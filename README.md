@@ -1,6 +1,6 @@
 # Introdução
 
-Case resolvendo o desafio proposto.
+Case resolvendo o desafio proposto e aplicação da biblioteca PyOD para detecção de outliers.
 
 ## Perguntas
 
